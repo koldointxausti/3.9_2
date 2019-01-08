@@ -13,7 +13,6 @@ public class Hangman {
 		boolean playAgain = true;
 		while (playAgain == true) {
 			Game game = new Game();
-			String word = game.getRandomSurname();
 			System.out.println("Good luck, start with the first letter.");
 			game.printVoids();
 			char[] guessed = new char[3];

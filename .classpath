@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/ik013043z1/Desktop/AnderGonzalezHangmanClass.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ik013043z1/eclipse-workspace/3.9_2/AnderGonzalezHangmanClass.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
